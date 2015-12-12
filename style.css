@@ -1,0 +1,19 @@
+body{ 
+	background-color: midnightblue; 
+    color: yellow;
+}
+#canvas{
+	border: 2px #000 solid;
+    background-color: black;
+    display: block;
+    
+}
+
+#audio{
+    width: 800px;
+}
+
+#container{
+    width: 800px;
+    margin: 0 auto;
+}
